@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(253, 251, 251);
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: rgb(53, 52, 52);
+    
+}
+
+header {
+    top: 0; 
+    position: fixed;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px 70px;
+    margin: 40px 0;
+}
+  
+
+img {
+    margin: 30px auto 10px auto;
+    border: 2px solid black;
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+    line-height: 25px;
+}
+
+.lado-esquerdo {
+    float: left;
+    width: 500px;
+}
+
+.lado-direito {
+    float: right;
+    width: 500px;
+}
+
+ul {
+    margin: 20px 0;
+}
+
+ol {
+    margin: 20px 0;
+}
