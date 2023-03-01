@@ -1,4 +1,4 @@
-# lessons-learned
+# Lessons Learned
 Projeto Lessons Learned do curso de Desenvolvimento Web da Trybe. 
 Seção: HTML e CSS.
 Resultado: todos os requisitos foram cumpridos.
